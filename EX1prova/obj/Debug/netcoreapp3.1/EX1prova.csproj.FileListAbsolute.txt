@@ -1,0 +1,11 @@
+C:\Users\VEDM\source\repos\EX1prova\EX1prova\bin\Debug\netcoreapp3.1\EX1prova.exe
+C:\Users\VEDM\source\repos\EX1prova\EX1prova\bin\Debug\netcoreapp3.1\EX1prova.deps.json
+C:\Users\VEDM\source\repos\EX1prova\EX1prova\bin\Debug\netcoreapp3.1\EX1prova.runtimeconfig.json
+C:\Users\VEDM\source\repos\EX1prova\EX1prova\bin\Debug\netcoreapp3.1\EX1prova.runtimeconfig.dev.json
+C:\Users\VEDM\source\repos\EX1prova\EX1prova\bin\Debug\netcoreapp3.1\EX1prova.dll
+C:\Users\VEDM\source\repos\EX1prova\EX1prova\bin\Debug\netcoreapp3.1\EX1prova.pdb
+C:\Users\VEDM\source\repos\EX1prova\EX1prova\obj\Debug\netcoreapp3.1\EX1prova.AssemblyInfoInputs.cache
+C:\Users\VEDM\source\repos\EX1prova\EX1prova\obj\Debug\netcoreapp3.1\EX1prova.AssemblyInfo.cs
+C:\Users\VEDM\source\repos\EX1prova\EX1prova\obj\Debug\netcoreapp3.1\EX1prova.dll
+C:\Users\VEDM\source\repos\EX1prova\EX1prova\obj\Debug\netcoreapp3.1\EX1prova.pdb
+C:\Users\VEDM\source\repos\EX1prova\EX1prova\obj\Debug\netcoreapp3.1\EX1prova.csprojAssemblyReference.cache
